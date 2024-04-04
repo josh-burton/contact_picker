@@ -40,8 +40,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d25e0e-53db-406a-b03d-8810e3a4cc78" name="Default Changelist" comment="Release 4.6.0">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_platform_interface/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_platform_interface/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_platform_interface/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_platform_interface/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_platform_interface/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_platform_interface/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_platform_interface/contact_picker_platform_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_platform_interface/contact_picker_platform_interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/contact_picker_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/contact_picker_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +84,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="1lI2b2c9OFJPngUmmaniN6JzZ9c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -85,12 +98,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/mik/IdeaProjects/contact_picker/contact_picker",
     "nodejs_package_manager_path": "npm",
-    "show.migrate.to.gradle.popup": "false"
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
